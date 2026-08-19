@@ -1,0 +1,6 @@
+{
+  "name": "ST-5 Stress Assessment System",
+  "description": "ระบบประเมินความเครียด 5 ข้อ (ST-5) ดีไซน์โทนสีชมพูสดใส พร้อมระบบสมาชิก บันทึกข้อมูล และประวัติย้อนหลัง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
